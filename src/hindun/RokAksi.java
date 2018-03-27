@@ -14,5 +14,23 @@ public class RokAksi {
         Rok a = new Rok();
         Rok b = new Rok();
         Rok c = new Rok();
+        
+        a.Bahan="Jeans";
+        a.Merk="Cressida";
+        a.Ukuran="L";
+        a.Warna="Biru";
+        a.Motif="Polos";
+        
+        b.Bahan="Katun";
+        b.Merk="Cardinal";
+        b.Ukuran="XL";
+        b.Warna="Hitam";
+        b.Motif="Batik";
+        
+        c.Bahan="Satin";
+        c.Merk="Nepada";
+        c.Ukuran="M";
+        c.Warna="Biru";
+        c.Motif="Polkadot";
     }
 }
