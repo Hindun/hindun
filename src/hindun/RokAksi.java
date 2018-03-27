@@ -11,6 +11,8 @@ package hindun;
  */
 public class RokAksi {
     public static void main(String[] args) {
-        
+        Rok a = new Rok();
+        Rok b = new Rok();
+        Rok c = new Rok();
     }
 }
