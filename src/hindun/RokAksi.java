@@ -32,5 +32,9 @@ public class RokAksi {
         c.Ukuran="M";
         c.Warna="Biru";
         c.Motif="Polkadot";
+        
+        a.tampildata();
+        b.tampildata();
+        c.tampildata();
     }
 }
